@@ -81,7 +81,7 @@ body {
     background: rgba(0, 0, 0, .2);
     border: 0px;
     outline: none;
-    color: #FFF;
+    color: #C0F;
     height: 30px;
     text-indent: 12px;
     left: 10px;
@@ -101,6 +101,7 @@ body {
 #play-btn {
     width: 85%;
     float: left;
+    color: gold;
 }
 
 #settings-btn {
